@@ -15,7 +15,7 @@ Watches.fyi is a dedicated platform for watch enthusiasts, providing a one-stop-
 
 ---
 
-## Project Overview
+## Project Overview.
 Watches.fyi aims to simplify the process of finding, tracking, and purchasing watches by aggregating listings from multiple watch marketplaces and providing tools to manage watch inventories, track prices, and set up notifications. This README describes how microservices, gRPC, and Kafka are used to achieve an efficient and scalable architecture for this platform.
 
 ## Key Features
