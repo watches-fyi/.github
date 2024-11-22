@@ -30,7 +30,7 @@ Watches.fyi aims to simplify the process of finding, tracking, and purchasing wa
 
 ### Microservices
 
-The Watches.fyi architecture is based on a microservices design to achieve modularity, scalability, and flexibility.
+The Watches.fyi architecture is based on a microservices design to achieve modularity, scalability, and flexibility. 
 
 - Modular Services: Separate the functionalities like data aggregation, notifications, marketplace management, inventory tracking, and user forums into distinct microservices. This modular design would allow each service to be developed, deployed, and scaled independently.
 
