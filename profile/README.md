@@ -73,6 +73,6 @@ Kafka serves as the real-time event streaming platform for Watches.fyi, enabling
 - **Communication Protocol**: gRPC
 - **Event Streaming Platform**: Apache Kafka
 - **Data Storage**: PostgreSQL, MongoDB
-- **Frontend**: React
+- **Frontend**: Vite React
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
